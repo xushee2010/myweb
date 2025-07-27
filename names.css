@@ -1,0 +1,22 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+.card__wraper{
+width: 1200px;
+margin: 20px auto;
+
+}
+.card__wraper{
+width: 23%;
+display: inline-block;
+margin: 0.86%;
+padding: 20px;
+text-align: center;
+border-radius: 20px;
+box-shadow: 0 0 18px blue;
+}
+
+
+
